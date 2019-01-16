@@ -1,5 +1,11 @@
-Welcome to Glitch
+Timestamp Microservice
 =================
+
+Main Configurations are in server.js
+
+Get the timestamp by GET [project_url]/timestamp/:date_string
+
+date_string maybe a UNIX or a proper date string
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
